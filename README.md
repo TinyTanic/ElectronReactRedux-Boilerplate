@@ -1,7 +1,7 @@
 # ElectronReactRedux-Boilerplate
 A simple boilerplate for the Electron + React + Redux architecture
 
-## How to Setting up
+## How to set up the project
 
 First of all we need to __clone__ the repo with the command:
 
