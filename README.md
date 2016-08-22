@@ -6,7 +6,7 @@ A simple boilerplate for the Electron + React + Redux architecture
 First of all we need to __clone__ the repo with the command:
 
 ```bash
-git clone git@github.com:punch92/ElectronReactRedux-Boilerplate.git
+$ git clone git@github.com:punch92/ElectronReactRedux-Boilerplate.git
 ```
 
 next we need to __install__ globally Gulp and Electron
