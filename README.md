@@ -11,8 +11,8 @@ git clone git@github.com:punch92/ElectronReactRedux-Boilerplate.git
 
 next we need to __install__ globally Gulp and Electron
 ```bash
-# npm install --global gulp-cli
-# npm install --global electron
+$ npm install --global gulp-cli
+$ npm install --global electron
 ```
 now the environment is ready.
 
