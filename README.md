@@ -16,9 +16,11 @@ $ npm install --global electron
 ```
 now the environment is ready.
 
-run this two commands __simultaneously__ in different console tabs for the transpiling of
+run this two commands __simultaneously__ in different console tabs for the __transpiling__ of
 * __jsx__ to __js__
 * __less__ to __css__
+
+and to __start__ Electron
 
 ```bash
 $ gulp
