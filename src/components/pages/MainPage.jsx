@@ -15,7 +15,12 @@ var MainPage = React.createClass({
    render() {
       return (
       <div>
-         {'ciao'}
+        <h1>
+          {'Hi!'}
+        </h1>
+        <p>
+          {'Happy coding!'}
+        </p>
       </div>)
 
    }
